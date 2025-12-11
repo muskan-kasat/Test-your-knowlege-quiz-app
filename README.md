@@ -236,9 +236,9 @@ This project is created for educational purposes as part of a frontend developer
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**MUSKAN KASAT**
+- GitHub: https://github.com/muskan-kasat/Test-your-knowlege-quiz-app
+- Email: muskankasat5@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -249,3 +249,4 @@ This project is created for educational purposes as part of a frontend developer
 ---
 
 **Note**: This project demonstrates proficiency in modern frontend development, including React, TypeScript, Tailwind CSS, and animation libraries. It showcases attention to detail, design accuracy, and best practices in web development.
+
