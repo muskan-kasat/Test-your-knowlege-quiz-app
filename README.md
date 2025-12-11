@@ -68,7 +68,7 @@ This is a fully functional quiz application that allows users to test their know
 ## 🏗️ Project Structure
 
 ```
-muskan/
+quizapp/
 ├── app/
 │   ├── layout.tsx          # Root layout with font configuration
 │   ├── page.tsx            # Main quiz page with state management
@@ -205,11 +205,11 @@ interface Question {
 
 ## ⏱️ Time Spent
 
-**Total Time**: Approximately 4-5 hours
+**Total Time**: Approximately 4.5-5 hours
 
-- **Planning & Design Analysis**: 30 minutes
-- **Project Setup**: 30 minutes
-- **Component Development**: 2 hours
+- **Planning & Design Analysis**: 15 minutes
+- **Project Setup**: 10 minutes
+- **Component Development**: 2.5 hours
 - **Styling & Animations**: 1.5 hours
 - **Testing & Refinement**: 30 minutes
 - **Documentation**: 30 minutes
@@ -249,4 +249,5 @@ This project is created for educational purposes as part of a frontend developer
 ---
 
 **Note**: This project demonstrates proficiency in modern frontend development, including React, TypeScript, Tailwind CSS, and animation libraries. It showcases attention to detail, design accuracy, and best practices in web development.
+
 
